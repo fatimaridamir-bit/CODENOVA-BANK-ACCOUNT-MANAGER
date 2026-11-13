@@ -1,0 +1,7 @@
+Account Number,SAV-1001
+Account Holder,Fatima Rida
+Account Type,Savings Account
+Current Balance,$2500.00
+
+Transaction ID,Timestamp,Type,Amount ($),Balance After ($),Description
+TXN-07D89BE5,2026-11-13 21:16:01,DEPOSIT,2500.00,2500.00,"Initial Account Opening Deposit"
